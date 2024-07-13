@@ -17,9 +17,9 @@ The dataset used for training this first prototype consists of scraped images of
 ## Skill 
 
 * Data Scientist 
-* Deep Learning 
+* Deep Learning
+* Computer Vision 
 * Feature Engineering
-* ANN Training 
 * Analysis and Visualization (EDA)
 
 ---
@@ -27,10 +27,13 @@ The dataset used for training this first prototype consists of scraped images of
 ## Tech Stack
 
 * Python 
-* Tensorflow 
+* Tensorflow
+* Keras 
 * OpenCV 
 * Numpy 
 * Pandas
+* Matplotlib
+* Seaborn
 
 ---
 
